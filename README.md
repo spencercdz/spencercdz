@@ -33,7 +33,7 @@
 </p>
 
 <p align="left">
-  📈 <strong>Full-Stack Stock Analyzer Web App</strong> — React frontend (Vercel) + Flask backend (Render), integrates with Yahoo Finance API for real-time analytics.
+  📈 <strong>Full-Stack Stock Analyzer Web App</strong> — React frontend (Vercel) + Flask backend (Render), integrates with Yahoo Finance API for real-time analytics and personal C++ module for DCF valuation arithmetics.
   🔗 <a href="https://github.com/spencercdz/stock_analyzer_app" target="_blank">Repo</a> | <a href="https://spencer-analyzer.vercel.app/" target="_blank">Live Site</a>
 </p>
 
@@ -78,6 +78,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" title="Python" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="40" alt="SQLAlchemy" title="SQLAlchemy" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="CPP" title="CPP" />
 </div>
 
 <br>
