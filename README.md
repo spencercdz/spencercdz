@@ -34,7 +34,7 @@
 
 <p align="left">
   📈 <strong>Full-Stack Stock Analyzer Web App</strong> — React frontend (Vercel) + Flask backend (Render), integrates with Yahoo Finance API for real-time analytics.
-  🔗 <a href="https://github.com/spencercdz/stock_analyzer_app" target="_blank">Repo</a> | <a href="https://spencer-analyzer.vercel.app/" target="_blank">Live Site</a>
+  🔗 <a href="https://github.com/spencercdz/stock_analyzer_app" target="_blank">Repo</a> | <a href="https://spencer-analyzer.vercel.app/" target="_blank">Live Site (First query may take over a minute as the Render backend has to restart)</a>
 </p>
 
 <p align="left">
