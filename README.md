@@ -22,10 +22,25 @@
 
 ###
 
-<p align="left"> 🧭 <strong>LLM Sentiment Analysis for Humanitarian Aid</strong> — Built using PyTorch, Hugging Face Transformers, scikit-learn and spaCy. Fine-tuneing pre-trained LLMs for real-world sentiment parsing in disaster scenarios.</p>
-<p align="left"> 💼 <strong>Financial ReAct AI Agent</strong> — Developed with LangGraph, LangChain, and Ollama. An autonomous agent capable of financial reasoning using ReAct-style prompts.</p>
-<p align="left"> 📈 <strong>Full-Stack Stock Analyzer Web App</strong> — React frontend (Vercel) + Flask backend (Render), integrates with Yahoo Finance API for real-time analytics.</p>
-<p align="left"> 🍱 <strong>Makan Already? Food Donation App</strong> — Built with HTML/CSS/JS frontend, Flask backend, and SQLAlchemy for database. Designed to connect food donors with charities in real time.</p>
+<p align="left">
+  🧭 <strong>LLM Sentiment Analysis for Humanitarian Aid</strong> — Built using PyTorch, Hugging Face Transformers, scikit-learn and spaCy. Fine-tuning pre-trained LLMs for real-world sentiment parsing in disaster scenarios.
+  🔗 <a href="https://github.com/spencercdz/hadr-sentiment-analysis target="_blank">Repo</a>
+</p>
+
+<p align="left">
+  💼 <strong>Financial ReAct AI Agent</strong> — Developed with LangGraph, LangChain, and Ollama. An autonomous agent capable of financial reasoning using ReAct-style prompts.
+  🔗 <a href="https://github.com/spencercdz/agentfi_react_agent" target="_blank">Repo</a>
+</p>
+
+<p align="left">
+  📈 <strong>Full-Stack Stock Analyzer Web App</strong> — React frontend (Vercel) + Flask backend (Render), integrates with Yahoo Finance API for real-time analytics.
+  🔗 <a href="https://github.com/spencercdz/stock_analyzer_app" target="_blank">Repo</a> | <a href="https://spencer-analyzer.vercel.app/" target="_blank">Live Site</a>
+</p>
+
+<p align="left">
+  🍱 <strong>Makan Already? Food Donation App</strong> — Built with HTML/CSS/JS frontend, Flask backend, and SQLAlchemy for database. Designed to connect food donors with charities in real time.
+  🔗 <a href="https://github.com/spencercdz/makanalready_donation_app" target="_blank">Repo</a>
+</p>
 
 ###
 
